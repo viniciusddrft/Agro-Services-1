@@ -137,7 +137,7 @@ public class Usuario {
 	
 	@Override
 	public String toString() {
-		return "Tutorial [id=" + id + ", nome=" + nome + "]";
+		return "Usuario [id=" + id + ", nome=" + nome + "]";
 	}
 
 }

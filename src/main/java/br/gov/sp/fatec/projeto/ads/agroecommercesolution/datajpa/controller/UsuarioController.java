@@ -22,7 +22,7 @@ import br.gov.sp.fatec.projeto.ads.agroecommercesolution.datajpa.model.Usuario;
 import br.gov.sp.fatec.projeto.ads.agroecommercesolution.datajpa.repository.UsuarioRepository;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:8090")
+@CrossOrigin(origins = "http://localhost:8080")
 @RequestMapping("/api")
 public class UsuarioController {
 	
@@ -39,8 +39,8 @@ public class UsuarioController {
 			
 			if (nome == null)
 				usuarioRepository.findAll().forEach(usuarios::add);
-			else
-				usuarioRepository.findByNome(nome).forEach(usuarios::add);
+			//else
+			//	usuarioRepository.findByNome(nome).forEach(usuarios::add);
 
 			if (usuarios.isEmpty()) {
 				return new ResponseEntity<>(HttpStatus.NO_CONTENT);

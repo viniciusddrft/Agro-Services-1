@@ -9,6 +9,6 @@ import org.springframework.data.jpa.repository.Query;
 import br.gov.sp.fatec.projeto.ads.agroecommercesolution.datajpa.model.Usuario;
 
 public interface UsuarioRepository extends JpaRepository<Usuario, Long> {
-	List<Usuario> findByNome(String nome);
-	List<Usuario> findByEmail(String email);
+	//List<Usuario> findByNome(String nome);
+	//List<Usuario> findByEmail(String email);
 }

@@ -28,3 +28,9 @@ target
 .project
 .settings
 .classpath
+senha-github
+package-lock.json
+package.json
+.metadata/
+node_modules/
+

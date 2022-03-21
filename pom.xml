@@ -8,10 +8,10 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bezkoder</groupId>
-	<artifactId>spring-boot-data-jpa</artifactId>
+	<groupId>br.com.fatec-botucatu</groupId>
+	<artifactId>Projeto-Agro-Servicos-API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-data-jpa</name>
+	<name>Projeto-Agro-Servicos-API</name>
 	<description>Demo project for Spring Boot Apis CRUD using Spring Data JPA</description>
 
 	<properties>
