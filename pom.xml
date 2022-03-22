@@ -8,12 +8,12 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.fatec-botucatu</groupId>
-	<artifactId>Projeto-Agro-Servicos-API</artifactId>
+	<groupId>br.com.fatec-botucatu.ads</groupId>
+	<artifactId>Projeto-Agro-Services-API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Projeto-Agro-Servicos-API</name>
-	<description>Demo project for Spring Boot Apis CRUD using Spring Data JPA</description>
-
+	<name>Projeto-Agro-Services-API</name>
+	<description>Projeto Agro Services API</description>
+	
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
