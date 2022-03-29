@@ -5,10 +5,8 @@ O objetivo dessa iniciativa é produzir um software direcionado ao comércio de 
 Camilla Carvalho de Jesus <br>
 GitGub: https://github.com/Camilla-Carvalho
 
-<br>
 Vinícius Dadário de Freitas <br>
 GitHub: https://github.com/viniciusddrft
 
-<br>
 João Vinícius Bozoni<br>
 GitHub: 
