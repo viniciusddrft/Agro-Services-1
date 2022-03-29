@@ -9,7 +9,7 @@ Vinícius Dadário de Freitas ✨<br>
 GitHub: https://github.com/viniciusddrft
 
 João Vinícius Bozoni ✨<br>
-GitHub: 
+GitHub: https://github.com/JoaoKoyaga
 
 
 <br><br>
